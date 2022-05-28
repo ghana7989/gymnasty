@@ -7,6 +7,13 @@
 	height: 150px;
 	cursor: pointer;
 }
+@media (max-width: 768px) {
+	.sona-logo {
+		width: 50px;
+		height: 50px;
+		cursor: pointer;
+	}
+}
 .carousel-inner {
 	max-width: 80vw;
 	margin: 0 auto;

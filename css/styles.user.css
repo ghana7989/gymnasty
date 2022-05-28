@@ -1,0 +1,17 @@
+#phoneNumber {
+	cursor: pointer;
+}
+
+.sona-logo {
+	width: 150px;
+	height: 150px;
+	cursor: pointer;
+}
+.carousel-inner {
+	max-width: 80vw;
+	margin: 0 auto;
+}
+.carousel-item img {
+	width: 100%;
+	object-fit: contain;
+}
